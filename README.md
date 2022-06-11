@@ -1,6 +1,6 @@
 # Bug-Report
 
-v.1 = 
+v.1.0 = 
 
 !bug <description> - Command sender besked ind på discord webhook som defineret i config, med IP, Spillernavn, SteamID, og besked.
 
