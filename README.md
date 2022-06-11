@@ -1,10 +1,19 @@
 # Bug-Report
 
-v.1.0 = 
+!bug <description> - Command sends a message yo a discord webhook defined in config with:
 
-!bug <description> - Command sender besked ind på discord webhook som defineret i config, med IP, Spillernavn, SteamID, og besked.
+- IP
+- Playername
+- Steamid
+- Message
 
-ConVars til custom IP og Port
-ConVars til Discord Webhook farve og navn
+## Convars
+- Custom IP 
+- Custom Port
+- Discord Webhook color
+- Discord Webook name
 
-===========================================================================================
+## Requirements
+[[ANY] Discord/Slack API (CallAdmin, SourceBans, ...)](https://forums.alliedmods.net/showthread.php?t=292663)
+## Versions
+v.1.0 = Initial release
